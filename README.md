@@ -16,11 +16,6 @@ Bu proje, gerçek bir eczanenin temel operasyonlarını kapsayan ilişkisel bir 
 ## Teknolojiler
 - SQL (İlişkisel veritabanı, Stored Procedures, Triggers)  
 
-## Hızlı Başlangıç
-1. Veritabanı şemasını oluşturun (projedeki .sql dosyalarını kullanın).  
-2. Stored Procedure ve Trigger'ları çalıştırın.  
-3. Test verileri ile senaryoları kontrol edin.  
-
 ## Video
 Projeyi kısa ve görsel olarak anlatan tanıtım videosu:
 https://youtu.be/SSski4dDK_c
